@@ -34,7 +34,7 @@ The Test Automation Framework allows you to create the tests for:
 * Selenium WebDriver 3.4
 
 ## Setup Info
-* Download this zip file and Unzip it
+* Clone the project from here: https://github.com/rajeshi/nishaanx_automation_framework.git
 * Download the Web Drivers for Chrome, Firefox and IE in the following path:
  * Chrome:	https://sites.google.com/a/chromium.org/chromedriver/downloads
  * Edge:	https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
